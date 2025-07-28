@@ -9,3 +9,18 @@ img {
 p 
 {font-size: 25px;
 }
+
+body{
+  background-color:white;
+}
+
+#animepara{
+  text-align:center;
+  font-family:"Corbel";
+  font-weight:bold;
+  font-size:68px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  color:#6d071a;
+  transition: text-shadow 0.7s ease-in-out;
+}
