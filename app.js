@@ -1,8 +1,8 @@
-alert("NE SOYEZ PAS VEXÉ ");
+/*alert("NE SOYEZ PAS VEXÉ ");
 let prenom = prompt("quel est ton prénom ?");
 let nom = prompt("Quel est ton nom ?");
 
-console.log("Bonjour" + prenom + " " + nom + "!") ; 
+console.log("Bonjour" + prenom + " " + nom + "!") ; */
 
 let monParagraphe = document.getElementById("animepara");
 
